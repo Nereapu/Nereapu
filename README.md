@@ -1,7 +1,7 @@
 ## Hi there 👋
 I'm Nerea.
--🎓 CFGS Web Application Development
-- Estudy java and other.
+- 🎓 CFGS Web Application Development
+- Study java and other.
   
 <!--
 **Nereapu/Nereapu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
