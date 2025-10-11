@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Nerea
+I'm Nerea.
 -🎓 CFGS Web Application Development
 - Estudy java and other.
   
