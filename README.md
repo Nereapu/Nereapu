@@ -1,9 +1,11 @@
 ## Hi there 👋
-I'm **Nerea**, actualy I study in Spain.
-- 🎓 CFGS Web Application Development
+I'm **Nerea**, actualy I student in Spain.
+- 🎓I study Web Application Development
 - Study java and other.
-  **about me**
-  My hobbies are drawing, watching anime and reading manga.
+  
+**about me**
+  
+ 😄My hobbies are drawing, watching anime and reading manga.
   
 <!--
 **Nereapu/Nereapu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
