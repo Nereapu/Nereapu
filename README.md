@@ -1,7 +1,7 @@
 ## Hi there 👋
 I'm **Nerea**, I student in Spain.
 - 🎓I study Web Application Development
-- Study java and other.
+  
   
 **about me**
   
