@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm **Nerea**, actualy I student in Spain.
+I'm **Nerea**, I student in Spain.
 - 🎓I study Web Application Development
 - Study java and other.
   
